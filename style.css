@@ -1,0 +1,80 @@
+h3{
+    font-size: 40px;
+        text-align: center;
+        color: rgb(241, 137, 0);
+}
+.foot{
+    height: 30px;
+    width: 100%;
+    background-color: #B98114;
+}
+.nav{
+    list-style-type: none ;
+    color: blueviolet;
+    background-color:none;
+
+}
+.nav{
+    display: inline-block ;
+    padding: 20px;
+    font-size: 30px;
+    
+}
+.bgcolor{
+    
+    background-color: brown;
+}
+#bgurl{
+    text-align: center;
+    background-repeat: no-repeat;
+}
+#bgurl2{
+    text-align: center;
+    
+    
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius:70% ;
+    object-fit: contain;
+
+}
+#hover{
+    width:50px;
+    height: 200px;
+    background-color: brown;
+    transition: width 2s;
+    float:left;
+    font-size: 30px;
+}
+#hover:hover{
+    width:500px ;height: 100px;
+    background-color: rgb(0, 116, 48);
+}
+
+.ou{
+    clear: both;
+    
+}
+.gto{
+
+    list-style-type: none ;
+    color: blueviolet;
+   
+}
+.gto li{
+    display: inline-block ;
+    margin-left:33% ;
+    font-size: 26px;
+   
+}
+.bgcolor{
+    background-color: brown;
+}
+#g{
+    background-color: rgb(255, 255, 255);
+    border: 10px solid black;
+    text-align:center;
+    padding: 10px;
+}
