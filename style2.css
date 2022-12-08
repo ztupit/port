@@ -27,5 +27,22 @@
     margin-left: 10%;
 }
 .cont{
+    text-align: left;
+
+}
+#pic{
+    text-align: right;
+}
+.list-unstyled{
+    padding-top: 40px;
+    margin-left: 25px;
+}
+.dname{
+    margin-left: 25px;
+}
+.nav{
+    background-color: crimson;
+    color: #B98114;
     text-align: center;
+    margin-left: 50%;
 }
