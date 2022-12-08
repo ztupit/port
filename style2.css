@@ -14,7 +14,8 @@
 .lone{
     height: 30px;
     width: 100%;
-    background-color: rgba(255, 145, 0, 0.932);  
+    opacity: 100%;
+    background-color: #B98114;
 }
 .ng{
     color: green;
@@ -24,4 +25,7 @@
 }
 .h4{
     margin-left: 10%;
+}
+.cont{
+    text-align: center;
 }
