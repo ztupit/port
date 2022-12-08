@@ -6,7 +6,8 @@ h3{
 .foot{
     height: 30px;
     width: 100%;
-    background-color: #ffab02;
+    opacity:100%;
+    background-color: #B98114;
 }
 .nav{
     list-style-type: none ;
